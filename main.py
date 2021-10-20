@@ -17,7 +17,7 @@ def load_data(filename):
 
 
 """
-Separate sonar data into to numpy array one with data values (float) and the other with labels (which class 1 or 0)
+Separate data into to a numpy array one with data values (float) and the other with labels (which class 1 or 0)
 """
 def separate_data_from_label(dataset):
     labels = []
@@ -117,5 +117,5 @@ if __name__ == '__main__':
     scores = evaluate_algorithm(dataset, labels, p, n_folds, learning_rate, n_epoch)
     print('Scores: %s' % scores)
     print('Mean Accuracy: %.3f%%' % (sum(scores)/float(len(scores))))
-    print(2)
+
 
