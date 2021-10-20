@@ -13,4 +13,4 @@ banknote authentication = Dua, D. and Graff, C. (2019). UCI Machine Learning Rep
 sonar = Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
 Vasilis Moustakidis
-github: [erdogant](https://github.com/BillMousta)
+github:(https://github.com/BillMousta)
